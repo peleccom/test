@@ -6,7 +6,7 @@ E-mail: aaaaaaa@mail.ru
 
 ### Summary
 Learning the Kotlin language to mobile application development.
-I want to change my profession and I’m ready to learn every day.
+I want to change my profession and Im ready to learn every day.
 
 ### Skills
 JavaScript, HTML, SCC, Android Studio, Intellj IDEA, Understanding OOP Principles. 
